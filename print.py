@@ -1,0 +1,5 @@
+print("Hello World of Program")
+print(12)
+print("Hello", 5)
+print("Hello \n")
+print("hello",end="*")
